@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KatlovesTy - Real Estate</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #0f0f0f;
+            color: #ffffff;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #0a422e;
+            font-size: 36px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .intro {
+            background-color: #192b3b;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        footer p {
+            font-size: 14px;
+            color: #666666;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to KatlovesTy Real Estate</h1>
+            <div class="intro">
+                <p>Hello, I'm KatlovesTy, your trusted real estate agent. Whether you're looking to buy, sell, or invest
+                    in property, I'm here to help you every step of the way. With years of experience and a passion for
+                    finding the perfect home for my clients, I'm committed to making your real estate journey as smooth
+                    and stress-free as possible.</p>
+            </div>
+        </header>
+
+        <section>
+            <h2>About Me</h2>
+            <p>I have a deep love for nature and a keen eye for finding properties that blend seamlessly with their
+                surroundings. As a real estate agent, I specialize in connecting people with homes that not only meet
+                their needs but also reflect their lifestyle and values.</p>
+        </section>
+
+        <section>
+            <h2>Services</h2>
+            <ul>
+                <li>Residential property sales</li>
+                <li>Commercial property sales</li>
+                <li>Property investment consultation</li>
+                <li>Market analysis and property valuation</li>
+                <li>Guidance through the buying or selling process</li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>&copy; 2024 KatlovesTy Real Estate. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+
+</html>
